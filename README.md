@@ -1,2 +1,0 @@
-# gold-rings
-vue app
